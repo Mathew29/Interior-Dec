@@ -1,0 +1,22 @@
+.title{
+  font-size: 50px;
+text-align: center;
+}
+.head{
+  font-size: 40px;
+}
+.div1{
+  float: left;
+  background-color: light gray;
+  width: 300px;
+}
+
+.whole{
+  font-family: sans-serif;
+  background-color: lightgray;
+
+}
+img{
+  width: 95%;
+  height:300px;
+}
