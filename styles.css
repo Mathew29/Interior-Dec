@@ -7,8 +7,8 @@ text-align: center;
 }
 .div1{
   float: left;
-  background-color: light gray;
   width: 300px;
+
 }
 
 .whole{
@@ -19,4 +19,23 @@ text-align: center;
 img{
   width: 95%;
   height:300px;
+}
+.column1{
+  background-color: #ff6959;
+  border: 2px solid #424242;
+  margin: 4px;
+  padding: 5px;
+}
+
+.column2{
+  background-color: #59b7ff;
+  border: 2px solid #424242;
+  margin: 4px;
+  padding: 5px;
+}
+.column3{
+  background-color: #64af64;
+  border: 2px solid #424242;
+  margin: 4px;
+  padding: 5px;
 }
